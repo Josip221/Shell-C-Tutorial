@@ -4,7 +4,9 @@
 #include <unistd.h>
 #include <sys/wait.h>
 
-// add pwd command
+// add quoting
+// redirection
+// error handling
 
 #define SHELL_RL_BUFSIZE 256
 #define SHELL_TOK_BUFSIZE 64
